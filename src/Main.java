@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        double temperaturaEmCelsius = 30.4;
+        double temperaturaEmCelsius = 35.4;
         double temperaturaFarenheit = (temperaturaEmCelsius * 1.8) + 32;
 
         /*System.out.println("A temperatura em Farenheit é: " + temperaturaFarenheit);*/
